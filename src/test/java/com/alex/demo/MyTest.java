@@ -24,4 +24,9 @@ public class MyTest {
         System.out.println(amsAddress.toString());
     }
 
+    @Test
+    public void nu(){
+
+    }
+
 }
