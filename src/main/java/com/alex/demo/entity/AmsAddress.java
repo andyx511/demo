@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * (AmsAddress)实体类
  *
- * @author makejava
+ * @author AlexNi
  * @since 2020-05-15 14:35:04
  */
 public class AmsAddress implements Serializable {

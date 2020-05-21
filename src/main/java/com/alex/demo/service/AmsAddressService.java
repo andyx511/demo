@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * (AmsAddress)表服务接口
  *
- * @author makejava
+ * @author AlexNi
  * @since 2020-05-15 14:35:05
  */
 public interface AmsAddressService {

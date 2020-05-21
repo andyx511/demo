@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * (AmsAddress)表数据库访问层
  *
- * @author makejava
+ * @author AlexNi
  * @since 2020-05-15 14:35:05
  */
 public interface AmsAddressDao {
